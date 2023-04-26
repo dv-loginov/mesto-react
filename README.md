@@ -9,7 +9,7 @@
 
 **Deploy**
 
-* [Mesto]https://dv-loginov.github.io/mesto/
+* [Mesto]https://dv-loginov.github.io/mesto-react/
 
 **Figma**
 
